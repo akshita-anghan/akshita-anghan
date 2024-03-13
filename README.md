@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Akshita Anghan</h1>
 <h3 align="center">A passionate Developer</h3>
-<p align="center">I have experience in all levels of WordPress works whether it be Theme & plugins Installation and Customization, Custom Theme Design & Development, Plugin Development, Child Theme Development, Other CMS to WordPress, WooCommerce Integration and Customization, Custom Functionality using PHP, Responsive Design Fix, Troubleshoot any issue in the WordPress Website - Blog, Security review and Improvement, Speed - Performance Optimization and anything related to WordPress.🛠️</p>
+<p align="center">I have experience in all levels of WordPress works whether it be Theme & plugins Installation and Customization, Custom Theme Design & Development, Plugin Development, Child Theme Development, Other CMS to WordPress, WooCommerce Integration and Customization, Custom Functionality using PHP, Responsive Design Fix, Troubleshoot any issue in the WordPress Website - Blog, Security review and Improvement, Speed - Performance Optimization and anything related to WordPress.</p>
 <div class="markdown-heading" dir="auto">
   <h3 class="heading-element" dir="auto">🛠 Tech Stack</h3>
   <a id="user-content--tech-stack" class="anchor" aria-label="Permalink: 🛠 Tech Stack" href="#-tech-stack">
