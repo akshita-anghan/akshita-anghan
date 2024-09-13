@@ -11,7 +11,7 @@
 </div>
 <ul dir="auto">
   <li>💻 &nbsp; PHP | Wordpress | Shopify </li>
-  <li>🌐 &nbsp; HTML | CSS | JavaScript | Bootstrap | jQuery | Javascript | Ajax </li>
+  <li>🌐 &nbsp; HTML | CSS | Bootstrap | JavaScript | jQuery | Ajax </li>
   <li>🛢 &nbsp; MySQL | SQL</li>
   <li>🖥 &nbsp; UI / UX | Figma </li>
 </ul>
